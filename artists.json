@@ -1,5 +1,6 @@
 {
   "Lana Del Rey": {
+    "photo": "lana",
     "topSong": "Summertime Sadness",
     "streams": "2.08B",
     "daily": "1.22M",
@@ -39,6 +40,7 @@
   },
 
   "The Weeknd": {
+    "photo": "weeknd",
     "topSong": "Blinding Lights",
     "streams": "3.70B",
     "daily": "2.10M",
@@ -78,6 +80,7 @@
   },
 
   "Taylor Swift": {
+    "photo": "taylor",
     "topSong": "Anti-Hero",
     "streams": "1.90B",
     "daily": "1.50M",
