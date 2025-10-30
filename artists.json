@@ -1,17 +1,21 @@
 {
   "Lana Del Rey": {
     "topSong": "Summertime Sadness",
-    "listeners": "58M",
+    "streams": "2.08B",
+    "daily": "1.22M",
     "quote": "My music is a cinematic dream pop."
   },
   "The Weeknd": {
     "topSong": "Blinding Lights",
-    "listeners": "105M",
+    "streams": "3.70B",
+    "daily": "2.10M",
     "quote": "I'm all about mystery and mood."
   },
   "Taylor Swift": {
     "topSong": "Anti-Hero",
-    "listeners": "102M",
+    "streams": "1.90B",
+    "daily": "1.50M",
     "quote": "Every song is a story."
   }
 }
+
