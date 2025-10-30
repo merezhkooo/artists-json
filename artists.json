@@ -1,121 +1,20 @@
 {
   "Lana Del Rey": {
-    "photo": "lana",
     "topSong": "Summertime Sadness",
     "streams": "2.08B",
     "daily": "1.22M",
-    "quote": "My music is a cinematic dream pop.",
-    "tourCities": [
-      {
-        "city": "Los Angeles",
-        "venue": "Hollywood Bowl",
-        "lat": 34.0522,
-        "lng": -118.2437,
-        "date": "2025-04-12",
-        "time": "19:00",
-        "datetime": "2025-04-12 19:00",
-        "price": "120-500€"
-      },
-      {
-        "city": "New York",
-        "venue": "Madison Square Garden",
-        "lat": 40.7128,
-        "lng": -74.0060,
-        "date": "2025-05-01",
-        "time": "20:30",
-        "datetime": "2025-05-01 20:30",
-        "price": "150-600€"
-      },
-      {
-        "city": "Paris",
-        "venue": "Accor Arena",
-        "lat": 48.8566,
-        "lng": 2.3522,
-        "date": "2025-06-10",
-        "time": "20:00",
-        "datetime": "2025-06-10 20:00",
-        "price": "100-450€"
-      }
-    ]
+    "quote": "My music is a cinematic dream pop."
   },
-
   "The Weeknd": {
-    "photo": "weeknd",
     "topSong": "Blinding Lights",
     "streams": "3.70B",
     "daily": "2.10M",
-    "quote": "I'm all about mystery and mood.",
-    "tourCities": [
-      {
-        "city": "Toronto",
-        "venue": "Scotiabank Arena",
-        "lat": 43.6532,
-        "lng": -79.3832,
-        "date": "2025-07-08",
-        "time": "19:30",
-        "datetime": "2025-07-08 19:30",
-        "price": "130-550€"
-      },
-      {
-        "city": "London",
-        "venue": "O2 Arena",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "date": "2025-07-22",
-        "time": "21:00",
-        "datetime": "2025-07-22 21:00",
-        "price": "170-650€"
-      },
-      {
-        "city": "Tokyo",
-        "venue": "Tokyo Dome",
-        "lat": 35.6895,
-        "lng": 139.6917,
-        "date": "2025-08-15",
-        "time": "19:00",
-        "datetime": "2025-08-15 19:00",
-        "price": "140-520€"
-      }
-    ]
+    "quote": "I'm all about mystery and mood."
   },
-
   "Taylor Swift": {
-    "photo": "taylor",
     "topSong": "Anti-Hero",
     "streams": "1.90B",
     "daily": "1.50M",
-    "quote": "Every song is a story.",
-    "tourCities": [
-      {
-        "city": "Nashville",
-        "venue": "Nissan Stadium",
-        "lat": 36.1627,
-        "lng": -86.7816,
-        "date": "2025-02-20",
-        "time": "19:00",
-        "datetime": "2025-02-20 19:00",
-        "price": "180-700€"
-      },
-      {
-        "city": "Sydney",
-        "venue": "Accor Stadium",
-        "lat": -33.8688,
-        "lng": 151.2093,
-        "date": "2025-03-10",
-        "time": "18:30",
-        "datetime": "2025-03-10 18:30",
-        "price": "160-650€"
-      },
-      {
-        "city": "Berlin",
-        "venue": "Olympiastadion",
-        "lat": 52.52,
-        "lng": 13.405,
-        "date": "2025-04-25",
-        "time": "20:00",
-        "datetime": "2025-04-25 20:00",
-        "price": "150-600€"
-      }
-    ]
+    "quote": "Every song is a story."
   }
 }
