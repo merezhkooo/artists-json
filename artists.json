@@ -12,7 +12,8 @@
         "lng": -118.2437,
         "date": "2025-04-12",
         "time": "19:00",
-        "price": "120-500€"
+        "price": "120-500€",
+        "tickets": "https://www.ticketmaster.com/hollywood-bowl-tickets/venue/73648"
       },
       {
         "city": "Paris",
@@ -21,7 +22,28 @@
         "lng": 2.3522,
         "date": "2025-06-10",
         "time": "20:00",
-        "price": "100-450€"
+        "price": "100-450€",
+        "tickets": "https://www.accorarena.com/en/"
+      },
+      {
+        "city": "London",
+        "venue": "O2 Arena",
+        "lat": 51.5033,
+        "lng": 0.0032,
+        "date": "2025-07-01",
+        "time": "20:00",
+        "price": "140-520€",
+        "tickets": "https://www.theo2.co.uk/"
+      },
+      {
+        "city": "New York",
+        "venue": "Madison Square Garden",
+        "lat": 40.7505,
+        "lng": -73.9934,
+        "date": "2025-05-18",
+        "time": "19:30",
+        "price": "160-550€",
+        "tickets": "https://www.msg.com/"
       }
     ]
   },
@@ -39,7 +61,28 @@
         "lng": -79.3832,
         "date": "2025-07-08",
         "time": "19:30",
-        "price": "130-550€"
+        "price": "130-550€",
+        "tickets": "https://www.ticketmaster.ca/scotiabank-arena-tickets/venue/131556"
+      },
+      {
+        "city": "Los Angeles",
+        "venue": "SoFi Stadium",
+        "lat": 33.9533,
+        "lng": -118.3392,
+        "date": "2025-08-21",
+        "time": "20:00",
+        "price": "150-650€",
+        "tickets": "https://www.sofistadium.com/events/"
+      },
+      {
+        "city": "Tokyo",
+        "venue": "Tokyo Dome",
+        "lat": 35.7175,
+        "lng": 139.7514,
+        "date": "2025-10-04",
+        "time": "19:00",
+        "price": "140-600€",
+        "tickets": "https://www.tokyo-dome.co.jp/en/"
       }
     ]
   },
@@ -57,7 +100,28 @@
         "lng": 13.405,
         "date": "2025-04-25",
         "time": "20:00",
-        "price": "150-600€"
+        "price": "150-600€",
+        "tickets": "https://www.olympiastadion.berlin/en/"
+      },
+      {
+        "city": "Madrid",
+        "venue": "Santiago Bernabéu",
+        "lat": 40.4531,
+        "lng": -3.6883,
+        "date": "2025-05-11",
+        "time": "21:00",
+        "price": "170-650€",
+        "tickets": "https://www.realmadrid.com/en/tickets"
+      },
+      {
+        "city": "Sydney",
+        "venue": "Accor Stadium",
+        "lat": -33.8470,
+        "lng": 151.0641,
+        "date": "2025-09-02",
+        "time": "19:30",
+        "price": "160-620€",
+        "tickets": "https://accorstadium.com.au/whats-on/"
       }
     ]
   }
