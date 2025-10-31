@@ -3,18 +3,62 @@
     "topSong": "Summertime Sadness",
     "streams": "2.08B",
     "daily": "1.22M",
-    "quote": "My music is a cinematic dream pop."
+    "quote": "My music is a cinematic dream pop.",
+    "tourCities": [
+      {
+        "city": "Los Angeles",
+        "venue": "Hollywood Bowl",
+        "lat": 34.0522,
+        "lng": -118.2437,
+        "date": "2025-04-12",
+        "time": "19:00",
+        "price": "120-500€"
+      },
+      {
+        "city": "Paris",
+        "venue": "Accor Arena",
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "date": "2025-06-10",
+        "time": "20:00",
+        "price": "100-450€"
+      }
+    ]
   },
+
   "The Weeknd": {
     "topSong": "Blinding Lights",
     "streams": "3.70B",
     "daily": "2.10M",
-    "quote": "I'm all about mystery and mood."
+    "quote": "I'm all about mystery and mood.",
+    "tourCities": [
+      {
+        "city": "Toronto",
+        "venue": "Scotiabank Arena",
+        "lat": 43.6532,
+        "lng": -79.3832,
+        "date": "2025-07-08",
+        "time": "19:30",
+        "price": "130-550€"
+      }
+    ]
   },
+
   "Taylor Swift": {
     "topSong": "Anti-Hero",
     "streams": "1.90B",
     "daily": "1.50M",
-    "quote": "Every song is a story."
+    "quote": "Every song is a story.",
+    "tourCities": [
+      {
+        "city": "Berlin",
+        "venue": "Olympiastadion",
+        "lat": 52.52,
+        "lng": 13.405,
+        "date": "2025-04-25",
+        "time": "20:00",
+        "price": "150-600€"
+      }
+    ]
   }
 }
